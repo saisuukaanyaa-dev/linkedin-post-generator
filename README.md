@@ -49,7 +49,7 @@ flowchart TD
    streamlit run main.py
    ```
 
-## Tech Stack
+ ## Tech Stack Used
 
 - **LLM:** Llama (via Groq)
 - **Orchestration:** LangChain
