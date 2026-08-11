@@ -58,4 +58,4 @@ flowchart TD
 
 ---
 
-*Based on the [codebasics GenAI Post Generator](https://github.com/codebasics/project-genai-post-generator) tutorial project.*
+
